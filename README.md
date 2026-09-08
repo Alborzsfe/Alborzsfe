@@ -8,10 +8,11 @@ My work sits at the intersection of Python, applied machine learning, workflow a
 
 **[FORTH](https://forth-ai.vercel.app/app/dashboard)** — a personal productivity workspace for turning priorities into focused daily action.
 
-**Computer vision for smart agriculture** — image-processing and machine-learning pipelines for plant monitoring and disease detection.
+**[Basil CV System](https://github.com/Alborzsfe/basil-cv-system)** — a reproducible computer-vision pipeline for basil leaf segmentation, background removal, and disease classification.
 
 ## Featured projects
 
+- **[Basil CV System](https://github.com/Alborzsfe/basil-cv-system)** — a tested PyTorch pipeline with leakage-aware data splits, segmentation, classification, Grad-CAM, CI, and honest evaluation boundaries.
 - **[Plant Disease Classification](https://github.com/Alborzsfe/plant-disease-classification)** — a TensorFlow/MobileNetV2 pipeline for binary leaf-health classification, from data preparation to inference.
 - **[SDOMS](https://github.com/Alborzsfe/SDOMS)** — an educational smart-distribution simulation using device models, graph connectivity, power balancing, and priority-based load shedding.
 - **[Engineering Calculator](https://github.com/Alborzsfe/Engineering-Calculator)** — a portable C terminal application for expressions, calculation history, and ASCII function plotting.
@@ -28,7 +29,7 @@ My work sits at the intersection of Python, applied machine learning, workflow a
 
 ## Technologies
 
-`Python` · `TensorFlow` · `Computer Vision` · `AI Automation` · `SQL` · `Supabase` · `GitHub Actions` · `C`
+`Python` · `PyTorch` · `TensorFlow` · `Computer Vision` · `AI Automation` · `SQL` · `Supabase` · `GitHub Actions` · `C`
 
 ## Connect
 
